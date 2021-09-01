@@ -1,4 +1,4 @@
-# CSE812
+# Course Description
 ## CSE 812: Distributed Systems (Spring 2020)
 
 
