@@ -1,6 +1,8 @@
 # CSE812
-CSE 812: Distributed Systems (Spring 2020)
-Course Description
+##CSE 812: Distributed Systems (Spring 2020)
+
+
+###Course Description
 The course will mainly cover topics from distributed systems, including distributed system architectures, synchronization, consistency, fault tolerance, security, distributed memory management, and distributed file systems. New paradigms of distributed systems will also be discussed, such as server clusters, peer-to-peer systems, grid computing, and mobile computing.
 
 #Course Content
